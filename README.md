@@ -1,17 +1,15 @@
-# :wave: MAHDI AHMED | VANGUARD VISUALS
+# :wave: AHMED MOHAM£D
 
-**`Graphic Designer, Content Creator & Passionate Developer`**
+**`Passionate Developer`**
 
 Hope your day is going well!
-It is a pleasure to welcome you to my portfolio. I am all about design and development, having more than 4+ years of experience in user interface and experience design, full stack development and even dabbling in game dev and 3D software. I am an undergrad and am currently pursuing an honours degree in digital media development at the univeristy of westminster. Aside from programming, I am a freelance graphic designer, photographer, and filmmaker. At this point, you've undoubtedly figured out that I enjoy putting pen to paper and coming up with new ideas and methods to contribute to the digital world.
-Please feel free to browse around my projects and follow me on instagram @Vanguard_Visuals :v:
+It is a pleasure to welcome you to my portfolio. I am all about design and development, having more than 4+ years of experience in various things such as website development, moblie application development and even dabbling in UI/UX design. I am recent graduate and recently completed a bachelors in Software engineering at the Univeristy of Westminster. Aside from programming, you'll find me enjoying watching, playing and chatting about football.⚽️. At this point, you've undoubtedly figured out that I enjoy coming up with new ideas and methods to contribute to the digital world.
+Please feel free to browse around my projects and email me at ahmed.dev.mo@gmail.com :v:
 
    <p align="left">
-      <a href="https://www.instagram.com/vanguard_visuals/">
-         <img alt="Instagram" title="Follow My Instagram" src="https://custom-icon-badges.demolab.com/badge/-Follow-E29E21?style=for-the-badge&logo=person&logoColor=white"/></a>
-         <a href="mailto:vanguardvisuals01@gmail.com">
+         <a href="mailto:ahmed.dev.mo@gmail.com">
          <img alt="email" title="Require my services?" src="https://custom-icon-badges.demolab.com/badge/-Email-F25278?style=for-the-badge&logo=mail&logoColor=white"/></a> 
-   <a href="https://www.linkedin.com/in/mahmed01/">
+   <a href="https://www.linkedin.com/in/ahmed-mohamed-ba8384249/">
          <img alt="linkedin" title="Connect on linkedin" src="https://custom-icon-badges.demolab.com/badge/-linkedin-4393D1?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 
