@@ -1,4 +1,4 @@
-# :wave: AHMED MOHAM£D
+# :wave: AHMED MOHAMED
 
 **`Passionate Developer`**
 
