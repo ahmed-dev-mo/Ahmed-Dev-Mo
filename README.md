@@ -3,7 +3,7 @@
 **`Passionate Developer`**
 
 Hope your day is going well!
-It is a pleasure to welcome you to my portfolio. I am all about design and development, having more than 4+ years of experience in various things such as website development, moblie application development and even dabbling in UI/UX design. I am recent graduate and recently completed a bachelors in Software engineering at the Univeristy of Westminster. Aside from programming, you'll find me enjoying watching, playing and chatting about football.⚽️. At this point, you've undoubtedly figured out that I enjoy coming up with new ideas and methods to contribute to the digital world.
+It is a pleasure to welcome you to my portfolio. I am all about design and development, having more than 4+ years of experience in various things such as website development, moblie application development and even dabbling in UI/UX design. I am recent graduate and recently completed a bachelors in Software engineering at the Univeristy of Westminster.  At this point, you've undoubtedly figured out that I enjoy coming up with new ideas and methods to contribute to the digital world.
 Please feel free to browse around my projects and email me at ahmed.dev.mo@gmail.com :v:
 
    <p align="left">
@@ -37,4 +37,4 @@ Please feel free to browse around my projects and email me at ahmed.dev.mo@gmail
 
 ### :bulb: My Hobbies
 
-
+Aside from programming, you'll find me enjoying watching, playing and chatting about football.⚽️. Football is a sport that gives me a great balance of physical, mental and personal satisfaction. From orgainsing weekly sessions with friends to being a dedicated fan and supporter of a my club. It gives me the chance to have a great workout and an opportunity to socialise with others. Besides football, keeping up with the latest tech in the car world fascinate me aswell as just enjoying the thrill of driving from time to time. 
